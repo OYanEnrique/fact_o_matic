@@ -1,4 +1,4 @@
-# 🤖 The Fact-o-Matic 3000
+# 🤖 The Fact-o-Matic 3000 
 
 In a dusty workshop, powered by lightning and questionable science, the Fact-o-Matic 3000 was born! This marvelous Python contraption has one purpose: to scour its vast, pre-loaded archives of strange knowledge and present you with a single, earth-shatteringly bizarre fact that you probably didn't need to know.
 
